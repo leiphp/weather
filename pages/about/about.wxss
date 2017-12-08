@@ -1,0 +1,56 @@
+/* pages/about/about.wxss */
+.content{
+  color:gray;
+}
+.top{
+  font-size: 12px;
+  margin:10px auto;
+  text-align: center;
+}
+.info{
+  margin-top: 10px;
+  height: 50px;
+  
+}
+.top image{
+   border-radius:50%;
+   border:5px solid #fff;
+  box-shadow:0 1px 5px #666;
+  width:60px;
+  height:60px;
+  display:block;
+  overflow:hidden;
+  margin:auto;   
+}
+.topdes{
+margin:10px auto;
+}
+.jian{
+  background: #ddd;
+  height: 10px;
+
+}
+.cont{
+  font-size: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.cont .title{
+  font-size: 13px;
+  margin-top: 10px;
+}
+.acont{
+  margin: 10px auto;
+  margin-left: 5px;
+}
+.but{
+  width:344px;
+  height:344px;
+  text-align: center;
+  margin: auto;
+}
+.but image{
+  width:80%;
+  height:80%;
+  display: inline;
+}

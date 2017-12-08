@@ -1,0 +1,23 @@
+<!--pages/about/about.wxml-->
+<view class="content">
+  <view class="top">
+  <image src="../../images/ava.jpg"></image>
+  <view class='topdes'><text class="info">小天天气，生活指数</text></view>
+  </view>
+  
+   <view class="jian"></view>
+
+  <view class="cont">
+    <view class="title"><text>关于作者</text></view>
+    <view class="acont"><text>作者昵称：雷小天</text></view>
+    <view class="acont"><text>作者博客：http://www.100txy.com</text></view>
+    <view class="acont"><text>微信公号：phpblog(雷小天博客)</text></view>
+    <view class="acont"><text>程序说明：自动获取用户所在城市当天实时天气和生活指数</text></view>
+    <view class="acont"><text>作者留言：对于小天天气建议或者反馈可以在我博客留言，欢迎大家骚扰！</text></view>
+  </view>
+  <view class="jian"></view>
+
+   <view class="but">
+    <image src="../../images/weixin.jpg"></image>
+  </view>
+</view>
